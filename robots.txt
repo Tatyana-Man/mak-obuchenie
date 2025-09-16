@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mak-obuchenie.vercel.app/sitemap.xml
